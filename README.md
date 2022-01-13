@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jayraj_teach" target="blank"><img src="https://img.shields.io/twitter/follow/jayraj_teach?logo=twitter&style=for-the-badge" alt="jayraj_teach" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **python,dSA, web development, Django**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Django, DSA, Java
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **New ideas 💡**
 
 - 🤝 I’m looking for help with **Python**
 
