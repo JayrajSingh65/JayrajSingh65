@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/jayraj_teach" target="blank"><img src="https://img.shields.io/twitter/follow/jayraj_teach?logo=twitter&style=for-the-badge" alt="jayraj_teach" /></a> </p>
 
-- 🔭 I’m currently working on **python,dSA, web development, Django**
+- 🔭 I’m currently working on **Java, web development,**
 
-- 🌱 I’m currently learning **Python, Django, DSA, Java
+- 🌱 I’m currently learning **JAVA, Blockchain technology,**
 
 - 👯 I’m looking to collaborate on **New ideas 💡**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **resource to learn DevOps**
 
 - 📝 I regularly write articles on [https://link.medium.com/vTPU4yl5Lmb](https://link.medium.com/vTPU4yl5Lmb)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **whatever you like**
 
 - 📫 How to reach me **jayvlogs005@gmail.com**
 
