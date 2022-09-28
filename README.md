@@ -1,39 +1,20 @@
-<h1 align="center">Hi 👋, I'm Jayraj singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img aling="right " alt="coding "  Width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<p align="left"> <img> <src="https://komarev.com/ghpvc/?username=jayrajsingh65&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajsingh65" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayrajsingh65" alt="jayrajsingh65" /></a> </p>
+# 💫 About Me:
+🔭 I’m currently working on Javascript and  Web development.<br><br>🌱 I’m currently learning Javascript and web development.<br><br>👯 I’m looking to collaborate on New ideas 💡<br><br>🤝 I’m looking for help with resource to learn Blockchain development <br><br>💬 Ask me about whatever you like<br><br>📫 How to reach me jayrajdev0101@gmail.com<br><br>⚡ Fun fact : favorite hobby - playing cricket, basketball, football, chess, virtual games , Podcast , Fitness freak . 
 
-<p align="left"> <a href="https://twitter.com/jayraj_teach" target="blank"><img src="https://img.shields.io/twitter/follow/jayraj_teach?logo=twitter&style=for-the-badge" alt="jayraj_teach" /></a> </p>
 
-- 🔭 I’m currently working on **Java, web development,**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/jayrajsingh_eth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayrajsingh90) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jayrajsingh_dev) 
 
-- 🌱 I’m currently learning **JAVA, Blockchain technology,**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jayrajsingh65&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayrajsingh65&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajsingh65&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **New ideas 💡**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤝 I’m looking for help with **resource to learn DevOps**
-
-- 📝 I regularly write articles on [https://link.medium.com/vTPU4yl5Lmb](https://link.medium.com/vTPU4yl5Lmb)
-
-- 💬 Ask me about **whatever you like**
-
-- 📫 How to reach me **jayvlogs005@gmail.com**
-
-- ⚡ Fun fact **: favorite hobby - playing cricket, basketball, football, chess, virtual games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jayraj_teach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayraj_teach" height="30" width="40" /></a>
-<a href="https://instagram.com/jayrajsingh90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayrajsingh90" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajsingh65&show_icons=true&locale=en&layout=compact" alt="jayrajsingh65" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrajsingh65&show_icons=true&locale=en" alt="jayrajsingh65" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajsingh65&" alt="jayrajsingh65" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=jayrajsingh65&icon=0&color=0)](https://visitcount.itsvg.in)
