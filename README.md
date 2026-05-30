@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on my personal and  Freelance Projects <br><br>🌱 I’m currently learning Reactjs and ux design.<br><br>👯 I’m looking to collaborate on New ideas 💡<br><br>🤝 I’m looking for help with resource to learn Blockchain development <br><br>💬 Ask me about whatever you like<br><br>📫 How to reach me jayrajdev0101@gmail.com<br><br> ✍️ I write on [Hashnode](https://hashnode.com/@jayrajsingh) <br><br>⚡ Fun fact : favorite hobby - playing cricket, basketball, football, chess, virtual games , Podcast and Fitness freak . 
+🔭 I’m currently working on my personal and  Freelance Projects <br><br>🌱 I’m currently learning Devsecops and system Design .<br><br>👯 I’m looking to collaborate on New ideas 💡<br><br>🤝  <br><br>💬 Ask me about whatever you like<br><br>📫 How to reach me jayrajdev0101@gmail.com<br><br> ✍️ I write on [Hashnode](https://hashnode.com/@jayrajsingh) <br><br>⚡ Fun fact : favorite hobby - playing cricket, basketball, football, chess, virtual games , Podcast and Fitness freak . 
 
 
 ## 🌐 Socials:
